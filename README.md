@@ -19,7 +19,7 @@ Este projeto tem como objetivo demonstrar como integrar modelos de aprendizado d
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seudominio/seuprojeto.git
+git clone https://github.com/Archesz/Seminario-Streamlit
 
 pip install -r requirements.txt
 
